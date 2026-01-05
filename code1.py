@@ -1,4 +1,5 @@
 # Code-Project-1
+#this is a multiplication table
 n=input("Enter a number: ")
 n= int(n) #converted to integer
 for i in range(1,11):
